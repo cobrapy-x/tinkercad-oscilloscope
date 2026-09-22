@@ -2,7 +2,7 @@
 
 A simple oscilloscope built in **Tinkercad Circuits** using an Arduino Uno and **two 16x2 I2C LCDs stacked into one 16x4 screen**. It samples a voltage on A0 and draws the waveform on the LCDs using custom characters. A potentiometer works as a time/div knob.
 
-🔗 **Tinkercad simulation:** [open the circuit](PASTE_YOUR_TINKERCAD_LINK_HERE)
+🔗 **Tinkercad simulation:** [open the circuit](https://www.tinkercad.com/things/0sWoSBl6wLo-oscilloscope/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=eLV5gq1FWsB_AgJyTpoJHCy93FAjz0Es5GbjDHQ33TQ)
 
 ![Circuit in Tinkercad](Oscilloscope.png)
 
